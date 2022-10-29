@@ -1,0 +1,11 @@
+﻿body{ 
+    text-align:center;
+}
+
+figure {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-column-gap: 4px;
+    float: left;
+}
+
